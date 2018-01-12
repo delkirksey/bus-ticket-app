@@ -14,6 +14,8 @@
 		5EF088BC1F06D67600D687D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EF088BA1F06D67600D687D2 /* LaunchScreen.storyboard */; };
 		5EF088C71F06D67600D687D2 /* Bus_TicketTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF088C61F06D67600D687D2 /* Bus_TicketTests.swift */; };
 		5EF088D21F06D67600D687D2 /* Bus_TicketUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF088D11F06D67600D687D2 /* Bus_TicketUITests.swift */; };
+		5EF088E01F06E1AC00D687D2 /* ayar_kasone.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5EF088DF1F06E1AC00D687D2 /* ayar_kasone.ttf */; };
+		5EF088E21F0A026100D687D2 /* sourcesanspro-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5EF088E11F0A026100D687D2 /* sourcesanspro-bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		5EF088CD1F06D67600D687D2 /* Bus TicketUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bus TicketUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EF088D11F06D67600D687D2 /* Bus_TicketUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bus_TicketUITests.swift; sourceTree = "<group>"; };
 		5EF088D31F06D67600D687D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5EF088DF1F06E1AC00D687D2 /* ayar_kasone.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ayar_kasone.ttf; sourceTree = "<group>"; };
+		5EF088E11F0A026100D687D2 /* sourcesanspro-bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sourcesanspro-bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		5EF088B01F06D67600D687D2 /* Bus Ticket */ = {
 			isa = PBXGroup;
 			children = (
+				5EF088E11F0A026100D687D2 /* sourcesanspro-bold.ttf */,
+				5EF088DF1F06E1AC00D687D2 /* ayar_kasone.ttf */,
 				5EF088B11F06D67600D687D2 /* AppDelegate.swift */,
 				5EF088B31F06D67600D687D2 /* ViewController.swift */,
 				5EF088B51F06D67600D687D2 /* Main.storyboard */,
@@ -235,6 +241,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EF088E21F0A026100D687D2 /* sourcesanspro-bold.ttf in Resources */,
+				5EF088E01F06E1AC00D687D2 /* ayar_kasone.ttf in Resources */,
 				5EF088BC1F06D67600D687D2 /* LaunchScreen.storyboard in Resources */,
 				5EF088B91F06D67600D687D2 /* Assets.xcassets in Resources */,
 				5EF088B71F06D67600D687D2 /* Main.storyboard in Resources */,
